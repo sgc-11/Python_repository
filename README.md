@@ -1,4 +1,4 @@
-# Python Repository for Simón acquired knowlegde
+# Python Repository for Simón's acquired knowlegde
 
 1. Python_Softserve
    * From Advanced Python course from Softserve
